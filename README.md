@@ -1,3 +1,18 @@
+
+
+
+
+![Screenshot (309)](https://github.com/user-attachments/assets/f357942a-4ae1-46ce-8c8d-86c27a1c32a3)
+
+
+
+
+
+
+
+
+
+
 # 🎵 SQL Music Store Data Analysis 🎧
 
 This project involves analyzing a sample Music Store database using SQL to uncover insights into music sales, customer behavior, artist performance, and genre trends. It is designed to demonstrate proficiency in writing complex SQL queries for real-world data analysis scenarios.
